@@ -1,0 +1,15 @@
+@media (max-width:992px) {
+    .image{
+        width: 50%;
+    }
+}
+@media (max-width:680px) {
+    /* cunki saytin ozunde resp. 680px idi */
+    .images{
+        display: block;
+    }
+    .image{
+        width: 90%;
+        margin: auto;
+    }
+}
